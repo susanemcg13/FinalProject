@@ -10,7 +10,7 @@ var jsonFREDData = {
     "sort_order": "asc",
     "count": 84,
     "offset": 0,
-    "limit": 100000,
+    "limit": 100,
     "observations": [
         {
             "realtime_start": "2013-08-14",
