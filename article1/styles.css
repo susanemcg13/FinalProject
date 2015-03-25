@@ -1,0 +1,15 @@
+#chart_div{
+	border:solid 1px red;
+}
+.col-md-4{
+	background-color:#ff0000;
+}
+.col-md-8{
+	background-color:yellow;
+}
+.col-md-1{
+	background-color:blue;
+}
+.col-md-6{
+	background-color:pink;
+}
